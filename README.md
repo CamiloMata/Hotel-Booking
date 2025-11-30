@@ -76,6 +76,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 Contacto:
 
-Tu Nombre - [www.linkedin.com/in/camilomatallanadataspecialistenglishfinance]
+Camilo Matallana - [www.linkedin.com/in/camilomatallanadataspecialistenglishfinance]
+
 
 Enlace del Proyecto: https://github.com/CamiloMata/Hotel-Booking
